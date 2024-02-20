@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1708042515 source:c:\users\kashi\onedrive\Рабочий стол\lestagame\framework\engine.cpp
+	<cassert>
+	<windows.h>
+	<windowsx.h>
+	<GL/gl.h>
+	"game.hpp"
+	"scene.hpp"
+
+1708042515 c:\users\kashi\onedrive\Рабочий стол\lestagame\framework\game.hpp
+
+1708042515 c:\users\kashi\onedrive\Рабочий стол\lestagame\framework\scene.hpp
+
+1708214572 source:c:\users\kashi\onedrive\Рабочий стол\lestagame\framework\scene.cpp
+	<windows.h>
+	<GL/gl.h>
+	<cassert>
+	<vector>
+	<algorithm>
+	<cmath>
+	"scene.hpp"
+
+1708227237 source:c:\users\kashi\onedrive\Рабочий стол\lestagame\game_cpp\game.cpp
+	<cassert>
+	<cmath>
+	<array>
+	"../framework/scene.hpp"
+	"../framework/game.hpp"
+	"../framework/engine.hpp"
+
+1708042515 c:\users\kashi\onedrive\Рабочий стол\lestagame\framework\engine.hpp
+
+1708042515 source:c:\users\kashi\onedrive\Рабочий стол\lestagame\game_cpp\main.cpp
+	"../framework/engine.hpp"
+
+1708042515 source:c:\users\kashi\onedrive\Рабочий стол\lestagames\framework\engine.cpp
+	<cassert>
+	<windows.h>
+	<windowsx.h>
+	<GL/gl.h>
+	"game.hpp"
+	"scene.hpp"
+
+1708042515 c:\users\kashi\onedrive\Рабочий стол\lestagames\framework\game.hpp
+
+1708042515 c:\users\kashi\onedrive\Рабочий стол\lestagames\framework\scene.hpp
+
+1708214572 source:c:\users\kashi\onedrive\Рабочий стол\lestagames\framework\scene.cpp
+	<windows.h>
+	<GL/gl.h>
+	<cassert>
+	<vector>
+	<algorithm>
+	<cmath>
+	"scene.hpp"
+
+1708227237 source:c:\users\kashi\onedrive\Рабочий стол\lestagames\game_cpp\game.cpp
+	<cassert>
+	<cmath>
+	<array>
+	"../framework/scene.hpp"
+	"../framework/game.hpp"
+	"../framework/engine.hpp"
+
+1708042515 c:\users\kashi\onedrive\Рабочий стол\lestagames\framework\engine.hpp
+
+1708042515 source:c:\users\kashi\onedrive\Рабочий стол\lestagames\game_cpp\main.cpp
+	"../framework/engine.hpp"
+
+1708042515 source:c:\users\kashi\onedrive\Рабочий стол\lestagames\lestagamestest\framework\engine.cpp
+	<cassert>
+	<windows.h>
+	<windowsx.h>
+	<GL/gl.h>
+	"game.hpp"
+	"scene.hpp"
+
+1708042515 c:\users\kashi\onedrive\Рабочий стол\lestagames\lestagamestest\framework\game.hpp
+
+1708042515 c:\users\kashi\onedrive\Рабочий стол\lestagames\lestagamestest\framework\scene.hpp
+
+1708214572 source:c:\users\kashi\onedrive\Рабочий стол\lestagames\lestagamestest\framework\scene.cpp
+	<windows.h>
+	<GL/gl.h>
+	<cassert>
+	<vector>
+	<algorithm>
+	<cmath>
+	"scene.hpp"
+
+1708227237 source:c:\users\kashi\onedrive\Рабочий стол\lestagames\lestagamestest\game_cpp\game.cpp
+	<cassert>
+	<cmath>
+	<array>
+	"../framework/scene.hpp"
+	"../framework/game.hpp"
+	"../framework/engine.hpp"
+
+1708042515 c:\users\kashi\onedrive\Рабочий стол\lestagames\lestagamestest\framework\engine.hpp
+
+1708042515 source:c:\users\kashi\onedrive\Рабочий стол\lestagames\lestagamestest\game_cpp\main.cpp
+	"../framework/engine.hpp"
+
